@@ -6,7 +6,7 @@ title: autokey-hid
 ![](autokey.jpg)
 
 ボタンを押すとユーザ名とパスワードを入力するUSB HIDデバイスです。
-AVR(ATTINY2313)を使っていて、USB周りはV-USBです。
+AVR(ATtiny2313)を使っていて、USB周りはV-USBです。
 入力する内容はEEPROMに記憶させておけます。
 
 会社の社内システムが小賢しいことにブラウザのパスワードマネージャを無効化していて、
