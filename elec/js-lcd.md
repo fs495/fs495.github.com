@@ -7,15 +7,11 @@ title: rpi-js-lcd
 
 Raspberry Piに接続する、白黒液晶モジュールとアナログジョイスティックの基板です。
 
-白黒液晶モジュールは秋月電子で売ってる
-[AQM1248A](http://akizukidenshi.com/catalog/g/gP-07005/)用です。
-ブレッドボードで動作テストしてるときの様子は
-[こんな感じ](https://twitter.com/fs495/status/560368754698100738/photo/1)
+白黒液晶モジュールは秋月電子で売ってる[AQM1248A](http://akizukidenshi.com/catalog/g/gP-07005/)用です。
+ブレッドボードで動作テストしてるときの様子は[こんな感じ](https://twitter.com/fs495/status/560368754698100738/photo/1)
 
-アナログジョイスティックもやはり
-[秋月電子で売ってます](http://akizukidenshi.com/catalog/g/gP-04048/)。
-どちらかというとスライドパッドみたいな感じで、
-DualShockなんかを想像してるとちょっと違いますが…
+アナログジョイスティックもやはり[秋月電子で売ってます](http://akizukidenshi.com/catalog/g/gP-04048/)。
+どちらかというとスライドパッドみたいな感じで、DualShockなんかを想像してるとちょっと違いますが…
 2チャンネル10ビットのA/Dコンバータ経由でRaspberry Piから読み取ってます。
 このA/Dコンバータは安くて小さくて結構いいですね。
 
