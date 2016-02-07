@@ -7,6 +7,9 @@ layout: post
 
 いままで趣味で作ってきたもの、その多くは作りかけや失敗品ですが、簡単に紹介します。
 
-- [autokey](elec/autokey.html)
 - [flan-led](elec/flan-led.html)
+- [mp3player](elec/mp3player.html)
+- [autokey](elec/autokey.html)
 - [js-lcd](elec/js-lcd.html)
+- [rtc-sdcard](elec/rtc-sdcard.html)
+- [wifi-module](elec/wifi-module.html)
