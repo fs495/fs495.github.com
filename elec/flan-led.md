@@ -18,4 +18,4 @@ Rubyでのパーザまでは作りかけました。
 
 - ソース(LED部分) [flan_led1](https://bitbucket.org/fs495/avr2/src/)
 - ソース(MML部分) [mml](https://bitbucket.org/fs495/avr2/src/)
-- 回路図は捜索中…
+- [回路図](flan-led-circuit.png)
