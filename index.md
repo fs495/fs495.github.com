@@ -13,3 +13,8 @@ layout: post
 - [js-lcd](elec/js-lcd.html)
 - [rtc-sdcard](elec/rtc-sdcard.html)
 - [wifi-module](elec/wifi-module.html)
+
+## レトロPC(MSX)
+
+- [中古MSX2入手](retropc/intro.html)
+- [Panasonic FS-A1mk2の単一電源化](retropc/1p.html)
