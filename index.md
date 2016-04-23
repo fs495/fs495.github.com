@@ -14,6 +14,7 @@ layout: post
 - [rtc-sdcard](elec/rtc-sdcard.html)
 - [wifi-module](elec/wifi-module.html)
 - [pocketcom-usbserial-if](elec/pocketcom-usbserial-if.html)
+- [vfd-test](elec/vfd-test.html)
 
 ## レトロPC(MSX)
 
