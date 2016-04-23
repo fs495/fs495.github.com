@@ -13,6 +13,7 @@ layout: post
 - [js-lcd](elec/js-lcd.html)
 - [rtc-sdcard](elec/rtc-sdcard.html)
 - [wifi-module](elec/wifi-module.html)
+- [pocketcom-usbserial-if](elec/pocketcom-usbserial-if.html)
 
 ## レトロPC(MSX)
 
