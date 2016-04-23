@@ -18,3 +18,4 @@ layout: post
 
 - [中古MSX2入手](retropc/intro.html)
 - [Panasonic FS-A1mk2の単一電源化](retropc/1p.html)
+- [キーボード接点修復](retropc/key.html)
