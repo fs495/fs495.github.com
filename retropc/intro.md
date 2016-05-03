@@ -20,8 +20,11 @@ MSX2のビデオ周りを担当するVDP、V9938です。
 最近ツイッターで知ったのですが、これってヤマハが設計してたんですね。
 言われてみれば音源チップの設計はやってたわけなのでそんな不思議ではないのかもですが、それにしてもいろんなことやってる会社ですね。
 
-![MSX-Engine](intro_msx_engine.jpg)
+![MSX-System](intro_msx_engine.jpg)
 
-MSX2のI/Oを詰め込んだMSX-Engineと呼ばれるチップです。
+MSX2のI/Oを詰め込んだMSX-Systemと呼ばれるチップです。
 今で言うサウスブリッジというかスーパーIOみたいな位置づけでしょうか。
 ここにPSGの機能が入ってるのかな…
+
+補足: MSX-SystemとMSX-Engine間違えて覚えてました。
+CPU機能なしのYAMAHA製のものがMSX-System、CPU機能ありの東芝製のものがMSX-Engineですね。
