@@ -21,3 +21,11 @@ layout: post
 - [中古MSX2入手](retropc/intro.html)
 - [Panasonic FS-A1mk2の単一電源化](retropc/1p.html)
 - [キーボード接点修復](retropc/key.html)
+
+## フランちゃんbot
+
+Twitter上で応答するbotです。現在休止中ですが、いつか「お ま た せ」と言って復活させたいｗ
+
+- [第1世代ソース](https://bitbucket.org/fs495/franbot-gen1/src)
+- [第2世代ソース](https://bitbucket.org/fs495/franbot-gen3/src)
+- [第2世代の解説](franbot/fran_tech.html)
